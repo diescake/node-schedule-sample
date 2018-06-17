@@ -1,0 +1,14 @@
+{
+  "name": "node-schedule-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diescake/node-schedule-sample.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "diescake <daisuke.kondo@access-company.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule": "^1.3.0"
+  }
+}
